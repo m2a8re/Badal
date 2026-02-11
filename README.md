@@ -8,6 +8,7 @@ Technical Training: YAT Learning Centers
 Track: Graphic Designer
 
  Name of Instructor: Eng. Abir Ismail
+ 
 Badla link : 
 
 
