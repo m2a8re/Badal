@@ -12,7 +12,6 @@ Badla link :
 
 
 This project is done by Badal
-
 Trainees' Names:
 
 - Mariam Ahmed Ahmed Salem | Team Leader
