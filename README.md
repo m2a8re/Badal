@@ -2,8 +2,11 @@
 
 DEPI Graduation Project
 Group Code: YAT715_ONL4_DRT4_S2 _DEPI4
+
 Technical Training: YAT Learning Centers
+
 Track: Graphic Designer
+
  Name of Instructor: Eng. Abir Ismail
 Badla link : 
 
