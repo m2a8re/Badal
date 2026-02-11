@@ -19,4 +19,4 @@ Trainees' Names:
 - Eman Ahmed Ahmed Salem
 - Nour Ashraf Mohamed Hamdy 
 - Maya Ahmed Mohamed Nabil
-- Heba 
+- Heba Saber Fares Ahmed
