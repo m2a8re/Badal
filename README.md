@@ -12,9 +12,11 @@ Badla link :
 
 
 This project is done by Badal
+
 Trainees' Names:
-Mariam Ahmed Ahmed Salem | Team Leader
-Eman Ahmed Ahmed Salem
-Nour Ashraf Mohamed Hamdy 
-Maya Ahmed Mohamed Nabil
-Heba 
+
+- Mariam Ahmed Ahmed Salem | Team Leader
+- Eman Ahmed Ahmed Salem
+- Nour Ashraf Mohamed Hamdy 
+- Maya Ahmed Mohamed Nabil
+- Heba 
