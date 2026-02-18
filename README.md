@@ -15,8 +15,8 @@ Badla link :
 This project is done by Badal
 Trainees' Names:
 
-- Mariam Ahmed Ahmed Salem | Team Leader
+- Nour Ashraf Mohamed Hamdy | Team Leader
+- Mariam Ahmed Ahmed Salem 
 - Eman Ahmed Ahmed Salem
-- Nour Ashraf Mohamed Hamdy 
 - Maya Ahmed Mohamed Nabil
 - Heba Saber Fares Ahmed
